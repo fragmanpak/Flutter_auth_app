@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "39188515072",
+    "project_id": "zam-auth",
+    "storage_bucket": "zam-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39188515072:android:22020b4bb3481c6dd50be5",
+        "android_client_info": {
+          "package_name": "com.example.zem_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39188515072-0rhsplhri8mfodku551s2mvh1f9978cd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zem_auth",
+            "certificate_hash": "5cb69bc1a71098b73eb5673fd9ae7ca9ba815af3"
+          }
+        },
+        {
+          "client_id": "39188515072-onpq4ij0plb3l2c6n0amhot7t7ko3al4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6KDmZqm30GFVt4IkyZZJMqcR2gw1GPi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39188515072-onpq4ij0plb3l2c6n0amhot7t7ko3al4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

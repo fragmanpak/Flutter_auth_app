@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">auth zam</string>
+    <string name="facebook_app_id">1020874675462441</string>
+    <string name="fb_login_protocol_scheme">fb41be854931bda72379807560a628d1dc</string>
+    <string name="facebook_client_token">16f7ce70b56e609595f0ecf0aba55b2a</string>
+</resources>
